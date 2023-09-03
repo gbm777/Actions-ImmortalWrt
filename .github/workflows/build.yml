@@ -4,7 +4,7 @@ on:
     workflow_dispatch:
 
 env:
-    CLONE_COMMAND: git clone  https://github.com/padavanonly/immortalwrtARM
+    CLONE_COMMAND: git clone  https://github.com/immortalwrt/immortalwrt
     REPO_NAME: immortalwrtARM
 
 jobs:
